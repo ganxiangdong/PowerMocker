@@ -1,8 +1,7 @@
 {
   "name": "ganxiangdong/power-mocker",
-  "description": "This is power mocker tool，You can mock anything",
+  "description": "This is a power mocker tool. You can mock anything",
   "type": "library",
-  "version": "0.0.1-beta",
   "require": {
     "php": ">=7.0",
     "nikic/php-parser": "v4.*.*"
