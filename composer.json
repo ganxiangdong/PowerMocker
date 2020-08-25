@@ -1,0 +1,26 @@
+{
+  "name": "ganxiangdong/PowerMocker",
+  "description": "This is power mocker tool，You can mock anything",
+  "type": "library",
+  "version": "0.0.1-beta",
+  "require": {
+    "php": ">=7.0",
+    "nikic/php-parser": "v4.*.*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": ">= 4.4.0"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "ganxiangdong",
+      "email": "phpwww@126.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "PowerMocker\\": "src/"
+    }
+  }
+}
